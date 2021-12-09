@@ -22,13 +22,13 @@ Git It Done is a Project Management application built with React Custom Hooks, F
 
 ## Screenshots
 
-![App Signup](https://krisoncode.s3.amazonaws.com/project-assets/signup.png)
+![App Signup](https://krisoncode.s3.amazonaws.com/project-assets/project-management/signin.png)
 
-![App Login](https://krisoncode.s3.amazonaws.com/project-assets/login.png)
+![App Login](https://krisoncode.s3.amazonaws.com/project-assets/project-management/login.png)
 
-![App Dashboard](https://krisoncode.s3.amazonaws.com/project-assets/dashboard.png)
+![App Dashboard](https://krisoncode.s3.amazonaws.com/project-assets/project-management/dashboard.png)
 
-![App Dashboard](https://krisoncode.s3.amazonaws.com/project-assets/project.png)
+![App Dashboard](https://krisoncode.s3.amazonaws.com/project-assets/project-management/project.png)
 
 ## Demo
 
