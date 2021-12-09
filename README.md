@@ -28,8 +28,8 @@ Git It Done is a Project Management application built with React Custom Hooks, F
 
 ![App Dashboard](https://krisoncode.s3.amazonaws.com/project-assets/dashboard.png)
 
-
+![App Dashboard](https://krisoncode.s3.amazonaws.com/project-assets/project.png)
 
 ## Demo
 
-https://dreamy-heisenberg-f4f399.netlify.app/login
+https://silly-wilson-dd9995.netlify.app/login
